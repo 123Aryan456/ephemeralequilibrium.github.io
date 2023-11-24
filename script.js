@@ -31,9 +31,9 @@ gsap.from(".anim2",{
     duration: 0.4,
 })  
 
-//Shery.imageEffect("#imgntexts img", {
-  //  style: 4,
-  //  debug: true,
-//})
+Shery.imageEffect("#imgntexts img", {
+    style: 4,
+    debug: true,
+})
 
 //shery js to animate images
